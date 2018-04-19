@@ -2,7 +2,7 @@
 ## making a matrix (function makeCacheMatix) secondly compute and cache the inverse (function cacheSolve) so 
 ## if the inverse is already computed,
 ## it skips the computation therby taking cached result otherwise it computes the 
-##inverse and cache the inverse computed later on.
+##inverse and cache the computed inverse later on.
 
 ## Function for making a Matrix
 
